@@ -32,6 +32,18 @@ function sectionE() {
   }
 }
 
+// TODO: another todo
+function sectionEwe() {
+  for (let m = 0; m < 20; m++) {
+    // Some code in section E
+  }
+}
+function sectionEqwe() {
+  for (let m = 0; m < 20; m++) {
+    // Some code in section E
+  }
+}
+
 // TODO(QGO-1112): Refactor this code
 // assignees: ZooMingGG
 sectionA();
