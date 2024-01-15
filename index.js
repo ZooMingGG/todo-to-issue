@@ -4,6 +4,7 @@ function sectionA() {
   }
 }
 
+// TODO: [T-1111] Revise logic
 function sectionB() {
   for (let j = 0; j < 20; j++) {
     // Some code in section B
