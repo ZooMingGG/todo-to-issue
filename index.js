@@ -1,4 +1,3 @@
-// TODO: Move to separate file
 function sectionA() {
   for (let i = 0; i < 20; i++) {
     // Some code in section A
