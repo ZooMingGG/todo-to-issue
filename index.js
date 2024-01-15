@@ -11,6 +11,7 @@ function sectionB() {
   }
 }
 
+// TODO: add tests
 function sectionC() {
   for (let k = 0; k < 20; k++) {
     // Some code in section C
