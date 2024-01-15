@@ -4,7 +4,7 @@ function sectionA() {
   }
 }
 
-// TODO: [T-1111] Revise logic
+// TODO(ZooMingGG): Revise logic
 function sectionB() {
   for (let j = 0; j < 20; j++) {
     // Some code in section B
@@ -29,7 +29,7 @@ function sectionE() {
   }
 }
 
-// TODO: Refactor this code
+// TODO(QGO-1111): Refactor this code
 sectionA();
 sectionB();
 sectionC();
