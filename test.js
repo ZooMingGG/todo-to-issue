@@ -23,6 +23,7 @@ function sectionD() {
   }
 }
 
+// TODO: revise logic and add unit tests
 function sectionE() {
   for (let m = 0; m < 20; m++) {
     // Some code in section E
