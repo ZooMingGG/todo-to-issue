@@ -30,6 +30,7 @@ function sectionE() {
   }
 }
 
+// TODO(QGO-1234): revise code
 sectionA();
 sectionB();
 sectionC();
